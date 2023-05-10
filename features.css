@@ -1,0 +1,120 @@
+*{
+    background-position: center;
+    background-repeat: no-repeat;
+    margin:0px;
+    background-size: cover;
+}
+h1{
+    padding:20px;
+    color:rgb(7, 6, 0);
+    text-align:center;
+
+}
+h2{
+    text-align:center;
+    background-color: antiquewhite;
+    font-family: 'IM Fell DW Pica', serif;
+}
+p{
+    font-family: font-family: 'Inter', sans-serif;;
+}
+.alb1{
+    background-image: url("https://i.insider.com/5c058622bde70f2227227887?width=1000&format=jpeg&auto=webp");
+    width:100%;
+    height:100vh;
+   
+    
+}
+
+.alb2{
+    background-image: url("https://designingidea.com/wp-content/uploads/2017/03/lavender-color-kids-room-with-white-canopy-bed-and-furniture.jpg");
+    width:100%;
+    height:100vh;
+    
+}
+.alb3{
+    background-image: url('https://i.insider.com/5c058622bde70f2227227883?width=1000&format=jpeg&auto=webp');
+    width:100%;
+    height:100vh;
+    
+}
+.alb4{
+    background-image: url('https://i.insider.com/5c058622bde70f2227227886?width=1000&format=jpeg&auto=webp');
+    width:100%;
+    height:100vh;
+   
+}
+.alb5{
+    background-image: url('https://i.insider.com/5c058622bde70f2227227888?width=1000&format=jpeg&auto=webp');
+    width:100%;
+    height:100vh;
+    
+}
+.alb6{
+    background-image: url('https://img.huffingtonpost.com/asset/5c7fac682500001c0580d573.jpeg?ops=1778_1000');
+    width:100%;
+    height:100vh;
+    
+}
+.alb7{
+    background-image: url('https://images.trvl-media.com/lodging/39000000/38400000/38390400/38390375/e0a1c2fe.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium');
+    width:100%;
+    height:100vh;
+}
+.alb8{
+    background-image: url('https://brabbucontract.com/inspirations-and-ideas/wp-content/uploads/2018/12/100-Best-Hotel-Style-Master-Bedroom-Ideas-for-You-to-See_94.jpg');
+    width:100%;
+    height:100vh;
+   
+}
+.alb9{
+    background-image: url('https://brabbucontract.com/inspirations-and-ideas/wp-content/uploads/2018/12/100-Best-Hotel-Style-Master-Bedroom-Ideas-for-You-to-See_32.jpg');
+    width:100%;
+    height:100vh;
+    
+}
+.alb10{
+    background-image: url('https://www.dylanhotelnyc.com/files/4699/Queen_Guest_Room2.jpg');
+    width:100%;
+    height:100vh;
+    
+}
+
+.karaoke{
+    background-image: url('https://www.gannett-cdn.com/presto/2022/12/09/PREN/8c45350f-9453-47d3-929b-97985f3dc619-REN_THE_POINT_CLOSES_03.JPG');
+    width:100%;
+    height:100vh;
+    
+}
+.bar{
+    background-image: url('https://b.zmtcdn.com/data/collections/c67357df1d79854b624355b0272c5f28_1674826727.jpg');
+    width:100%;
+    height:100vh;
+    
+}
+.pool{
+    background-image: url("https://xx.bstatic.com/xdata/images/xphoto/1182x887/63486802.jpg?k=6140686925115e16214dd4a6b7ccfdc268e0ea1b38eb7a769ed593fb5bd6f2a2&o=?size=S");
+    width:100%;
+    height:100vh;
+}
+.topic{
+    background-image:url('https://static.tumblr.com/2e5442f6a8ed17f544cd68f0b8155b2c/k2farp1/HyKpwuoox/tumblr_static_37vqmbf36sg0ssksc4owo8sc0_2048_v2.jpg') ;
+    width: 100%;
+    block-size: 300px;
+    text-align:center;
+}
+.topic>h1{
+    margin:0px;
+    padding:50px;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 40px;
+}
+
+h1{
+    font-size:50px;
+}
+h2{
+    font-size: 40px;
+    background
+}

@@ -1,0 +1,178 @@
+
+
+header{
+    width:100%;
+    margin:0px;
+    top:0;
+    right:0;
+    padding:0px 0px 0px 0px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    background-color: rgb(1, 1, 59,0.9);
+    position:fixed;
+    z-index: 1000;
+}
+
+.logo{
+    width: 200px;
+    height: 50px;
+    cursor:pointer;
+    position:relative;
+    align-items: center;
+    
+}
+.logo:hover{
+    border: 2px solid white;
+    padding: 2px 2px 2px 2px;
+}
+
+header>ul{
+    padding:0px 20px;
+}
+header>ul>li{
+    list-style:none;
+    display:inline-block;
+    margin:0px 10px 0px 0px;
+    font:500;
+    align-content: center;
+    padding-left: 10px;
+}
+
+header>ul >li> a{
+    
+    color: aliceblue;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+    border-radius:4px;
+    
+}
+
+header> ul >li >a:hover{
+    
+    color:black;
+    text-decoration:black underline 2px;
+    border-spacing: 0vmax;
+    text-size-adjust:var(30%);
+    padding: 2px 2px 2px 2px;
+    background-color: white;
+
+}
+.cover{
+    width:100%;
+    height:100vh;
+    background-image:url("file:///C:/Users/Sheena%20Abigail%20W/Desktop/FhUoqJmUcAAmzwm1.jpeg");
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size:auto;
+    background-position:center;
+    padding:0px 0px 0px 0px;
+    border:0px;
+    margin:0px;
+}
+
+.title h1{
+    font-size:100px;
+    color:#fff;
+    padding:200px 50px 50px 50px;
+    margin:0px;
+    font-family:'IM Fell DW Pica', serif;
+    font-style: italic;
+    text-align:center;
+    font-weight:700px;
+}
+.title>h1:hover{
+    font-weight:200;
+    text-decoration: underline white;;
+}
+.title>p{
+    padding:0px 0px 0px;
+    font-weight:800px;
+    font-family:'IM Fell DW Pica', serif;
+    color:#fff;
+    font-style: italic;
+    font-size:35px;
+    text-decoration-color: black;
+    text-align:center;
+    text-transform: capitalize;
+}
+.title>p:hover{
+    font-weight: 700;
+}
+.title>.cover-button{
+    background-color: rgb(3, 3, 59);
+    border:#a1b4f3 2px;
+    border-radius: 50px;
+    color:white;
+    padding: 10px 10px;
+    font-family:'IM Fell DW Pica', serif;
+    font-size: 20px;
+    font-weight:500;
+    align-content: center;
+    font-style: italic
+    ;
+}
+main{
+    
+    background-image: url("https://img.freepik.com/premium-photo/motion-smoke-cinematic-background-with-grunge-texture-luxury-elegant-3d-illustration-cinema-theme_510351-2722.jpg?w=1060");
+    color: aliceblue;
+    text-shadow: black 10px;
+    background-attachment: fixed;
+}
+  
+main>h1{
+   
+    color: rgb(161, 180, 243);
+    margin-left: 10px;
+    text-decoration-line: underline;
+}
+
+main>p{
+    margin: 10px 10px 10px 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+main>a{
+    margin:10px 10px 10px 10px;
+    align-items:center;
+    
+}
+
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+footer{
+    font-size: 12px;
+    color: transparent whitesmoke;
+    background-color: #c4d7ff;
+    display:flex;
+    align-items:normal;
+    flex-direction:column;
+    flex-wrap: wrap;
+    font-family: 'Inter', sans-serif;
+}
+
+footer>h2{
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.social-media>a{
+    padding-left: 10px;
+}
+
+.subscribe-button{
+    color:#a1b4f3;
+    background-color: rgb(0, 0, 83);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 20px;
+    font-weight: 800;
+}
+
